@@ -4,7 +4,7 @@ Playing around a bit with creative coding in processing, making some sketches
 
 Sketch 1 Preview:
 
-[![Sketch_1](https://giphy.com/gifs/Al1UisQcnv7HwxwmXM)](https://j.gifs.com/XozDkV.gif)
+[![Sketch_1](https://giphy.com/gifs/Al1UisQcnv7HwxwmXM)](https://giphy.com/gifs/Al1UisQcnv7HwxwmXM)
 https://giphy.com/gifs/Al1UisQcnv7HwxwmXM
 https://github.com/moerastrid/processing_sketches/assets/92726944/dff574c3-e375-409c-aa05-af43e461d625
 
